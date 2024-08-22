@@ -18,4 +18,5 @@ SmartTradeIQ est un bot de trading automatisé conçu pour la plateforme IQ Opti
 
    ```bash
    git clone https://github.com/youssefsebaoui/SmartTradeIQ.git
-   cd IQOptionTraderBot
+   cd SmartTradeIQ
+
